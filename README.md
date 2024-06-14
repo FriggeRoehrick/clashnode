@@ -9,13 +9,13 @@
 
 ### 机场节点分享
 
-https://vfast.cloud/api/v1/client/subscribe?token=f6e0710d5bdc247385234038d3a50f09
+https://vfast.cloud/api/v1/client/subscribe?token=9aa06911c6d5408d1c7248075b932edb
 
-https://vfast.cloud/api/v1/client/subscribe?token=f75ba57b6b8c9584a881e92000363036
+https://vfast.cloud/api/v1/client/subscribe?token=3314abc9589600da1b527c299caa2620
 
-https://vfast.cloud/api/v1/client/subscribe?token=b763610f185ae83b625ce0cabb577fee
+https://vfast.cloud/api/v1/client/subscribe?token=a192e76384c61f97bbc8d2a7f83329df
 
-https://vfast.cloud/api/v1/client/subscribe?token=38b5878339b8f633d1093625734e0c88
+https://vfast.cloud/api/v1/client/subscribe?token=865f5eb8b6f37fc6ec84233629383c63
 
 ### 4k油管视频秒开
 
